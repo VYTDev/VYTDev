@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vytdev" alt="vytdev" /></a> </p>
 
-- 🔭 I’m currently working on [Creators’ API](https://github.com/VYTDev/Creators-API)
-
 - 🌱 I’m currently learning **JavaScript**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vytdev&show_icons=true&locale=en&layout=compact" alt="vytdev" /></p>
